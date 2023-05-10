@@ -1,5 +1,4 @@
 [[redirects]]
-    from = "/redirect-test"
-    to = "https://dornsife.usc.edu/center-for-political-future/"
-    status = 301
-    force = false
+from = "/redirect-test"
+to = "https://dornsife.usc.edu/center-for-political-future/"
+status = 301
